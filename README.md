@@ -9,7 +9,7 @@ Website ini merupakan project perbaikan halaman (repair page) yang bertujuan unt
 - Struktur kode lebih rapi
 
 ## 🛠️ Teknologi yang Digunakan
-- HTML5
+- HTML
 - CSS3
 
 ## 📂 Struktur Project
