@@ -11,7 +11,6 @@ Website ini merupakan project perbaikan halaman (repair page) yang bertujuan unt
 ## 🛠️ Teknologi yang Digunakan
 - HTML5
 - CSS3
-- JavaScript
 
 ## 📂 Struktur Project
 /assets → berisi gambar & file pendukung  
